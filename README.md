@@ -12,7 +12,7 @@
 
 ## Sobre mim
 
-Profissional de TI especializado em Cloud Computing AWS, com experiência em migração e modernização de infraestruturas, design de arquiteturas escaláveis, seguras e de alta disponibilidade. Certificado como AWS Solutions Architect Associate e AWS Cloud Practitioner, com sólida base em telecomunicações e redes.
+Sou profissional de tecnologia com forte atuação em Cloud AWS, com experiência em migração e modernização de infraestruturas, design de arquiteturas escaláveis, seguras e de alta disponibilidade. Certificado como AWS Solutions Architect Associate e AWS Cloud Practitioner, com sólida base em telecomunicações e redes.
 
 ---
 
