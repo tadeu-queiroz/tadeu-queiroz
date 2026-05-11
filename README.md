@@ -1,4 +1,3 @@
-
 # Tadeu Queiroz
 
 **AWS Cloud Architect** · São Paulo, Brasil 🇧🇷
@@ -46,3 +45,4 @@ Sou profissional de tecnologia com forte atuação em Cloud AWS, com experiênci
 - 💼 [linkedin.com/in/tadeuqueiroz-cloud](https://www.linkedin.com/in/tadeuqueiroz-cloud)
 - 📧 tadeuqueiroz.cloud@gmail.com
 - 📸 Instagram: [@thadeu.queiroz03](https://www.instagram.com/thadeu.queiroz03)
+
