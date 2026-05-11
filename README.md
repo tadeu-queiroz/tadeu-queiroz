@@ -26,7 +26,7 @@ Aberto a oportunidades como Cloud Architect, Solutions Architect ou Cloud Engine
 
 **2º Lugar Geral — ARIA: Inteligência Regulatória com IA Generativa**
 
-*Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026 · SENAI Santo Amaro*
+*Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026 · SENAI Suíço-Brasileiro*
 
 Plataforma de automação regulatória com Amazon Bedrock, RAG, Step Functions e Textract. Reduz a análise de documentos de semanas para segundos.
 Solução Serverless na AWS para extração de conhecimento em dados complexos e conformidade farmacêutica.
