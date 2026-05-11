@@ -46,7 +46,7 @@ Apoio no desenvolvimento de alunos em tecnologia, contribuindo para inclusão so
 
 - 💼 [linkedin.com/in/tadeuqueiroz-cloud](https://www.linkedin.com/in/tadeuqueiroz-cloud)
 - 📧 tadeuqueiroz.cloud@gmail.com
-- 📸 Instagram: [@thadeu.queiroz03](https://www.instagram.com/thadeu.queiroz03)
+- 📸 [@thadeu.queiroz03](https://www.instagram.com/thadeu.queiroz03)
 - 
 💬 Curto trocar ideia sobre Cloud, carreira e arquitetura de soluções.
 
