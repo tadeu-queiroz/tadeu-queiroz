@@ -48,7 +48,7 @@ Apoio no desenvolvimento de alunos em tecnologia, contribuindo para inclusão so
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://linkedin.com/in/tadeuqueiroz-cloud )
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:tadeuqueiroz.cloud@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?st
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://instagram.com/queiroz_tadeu )
 
 💬 Curto trocar ideia sobre Cloud, carreira e arquitetura de soluções.
 
