@@ -40,7 +40,7 @@ Plataforma de automação regulatória com Amazon Bedrock, RAG, Step Functions e
 </p>
 
 **Voluntário - Escola da Nuvem**
-Apoiando a comunidade e contribuindo para a formação de novos talentos em Cloud Computing.
+Apoio no desenvolvimento de alunos em tecnologia, contribuindo para inclusão social e formação de novos profissionais para o mercado de trabalho.
 
 ## 🌎 Onde me encontrar
 
