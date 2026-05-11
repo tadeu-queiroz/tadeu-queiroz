@@ -28,8 +28,8 @@ Aberto a oportunidades como Cloud Architect, Solutions Architect ou Cloud Engine
 
 *Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026 · SENAI Santo Amaro*
 
+Plataforma de automação regulatória com Amazon Bedrock, RAG, Step Functions e Textract. Reduz a análise de documentos de semanas para segundos.
 Solução Serverless na AWS para extração de conhecimento em dados complexos e conformidade farmacêutica.
-Plataforma de automação regulatória com Amazon Bedrock, RAG, Step Functions e Textract. Reduz análise de documentos de semanas para segundos.
 
 🔗 [Ver projeto ARIA](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai)
 
