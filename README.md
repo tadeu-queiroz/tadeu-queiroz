@@ -30,7 +30,7 @@ Aberto a oportunidades como Cloud Architect, Solutions Architect ou Cloud Engine
 
 Plataforma de automação regulatória com Amazon Bedrock, RAG, Step Functions e Textract. Reduz análise de documentos de semanas para segundos.
 
-🔗 [Ver projeto ARIA]([LINK_DO_PROJETO_ARIA](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai))
+🔗 [Ver projeto ARIA]((https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai))
 
 **Stack principal:** Amazon Bedrock, AWS Lambda, Step Functions, Amazon S3, Textract, OpenSearch, Python, API Gateway
 
