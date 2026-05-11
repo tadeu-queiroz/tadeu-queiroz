@@ -1,11 +1,12 @@
 # Tadeu Queiroz 👋
 
 🇧🇷 São Paulo, Brasil
-☁️ AWS Cloud Architect | Cloud | Serverless | DevSecOps
+☁️ Arquiteto de Cloud | AWS Certified Solutions Architect Associate | Serverless | GenAI & RAG | Migração para Nuvem
 
-Sou profissional de tecnologia com forte atuação em Cloud AWS, com experiência em migração e modernização de infraestruturas, design de arquiteturas escaláveis, seguras e de alta disponibilidade. Certificado como AWS Solutions Architect Associate e AWS Cloud Practitioner, com sólida base em telecomunicações e redes.
+Sou profissional de tecnologia com atuação em Cloud AWS, com experiência em migração e modernização de infraestruturas, design de arquiteturas escaláveis, seguras e de alta disponibilidade. Certificado como AWS Solutions Architect Associate e AWS Cloud Practitioner, com sólida base em telecomunicações e redes.
 
-Atualmente atuo como AWS Cloud Architect, com foco em:
+Atualmente, trabalho como Consultor Cloud na 9net IT Security, em projetos sob demanda de AWS Architecture, Serverless Architectures, Infrastructure as Code (IaC), CI/CD e Cloud Security, sempre com foco em confiabilidade, eficiência e excelência operacional.
+Aberto a oportunidades como Cloud Architect, Solutions Architect ou Cloud Engineer, em empresas que valorizem inovação, automação e boas práticas em Cloud AWS — presencial, híbrido ou remoto.
 
 - Arquiteturas Cloud (AWS)
 - Migração e Modernização de Infraestruturas
