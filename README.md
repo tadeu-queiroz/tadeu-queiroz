@@ -89,9 +89,10 @@ Apoiando a comunidade e contribuindo para a formação de novos talentos em Clou
 
 ## 🌎 Onde me encontrar
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://linkedin.com/in/tadeuqueiroz-cloud )
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white )](https://instagram.com/queiroz_tadeu )
-- 📧 tadeuqueiroz.cloud@gmail.com 
+- 💼 [linkedin.com/in/tadeuqueiroz-cloud](https://www.linkedin.com/in/tadeuqueiroz-cloud)
+- 📧 tadeuqueiroz.cloud@gmail.com
+- 📸 Instagram: [@thadeu.queiroz03](https://www.instagram.com/thadeu.queiroz03)
+- 
 💬 Curto trocar ideia sobre Cloud, carreira e arquitetura de soluções.
 
 
