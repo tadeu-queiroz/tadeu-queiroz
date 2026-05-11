@@ -16,7 +16,7 @@ Sou profissional de tecnologia com forte atuação em Cloud AWS, com experiênci
 
 ---
 
-## 🥈 Destaque — Hackathon Talento Tech 3.0
+## 🥈 Destaque - Hackathon Talento Tech 3.0
 
 > **2º Lugar Geral — ARIA: Inteligência Regulatória com IA Generativa**
 > 
