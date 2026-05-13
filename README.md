@@ -38,7 +38,7 @@ Destaque - Hackathon Talento Tech 3.0
 
 🥈 2º Lugar Geral - ARIA - análise regulatória Gen.AI 
 
-Hackathon Talento Tech 3.0 · Hacking for Good 2026 · Escola da Nuvem 
+Hackathon Talento Tech 3.0 · Hacking for Good · Escola da Nuvem 2026
 
 Desenvolvemos uma plataforma de automação regulatória para extrair conhecimento de dados complexos e garantir conformidade farmacêutica, com Inteligência Artificial Generativa na AWS. Solução Serverless com Amazon Bedrock, RAG, Step Functions e Textract. 
 A plataforma automatiza a ingestão e o processamento de documentos regulatórios, seja de forma manual ou por meio de coleta automatizada de fontes externas, gerando uma base de conhecimento consultável por meio de um assistente virtual conversacional. 
