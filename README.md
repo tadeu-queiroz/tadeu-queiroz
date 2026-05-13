@@ -46,7 +46,7 @@ Reduza a análise de documentos de semanas para segundos.
 
 🔗 [Ver projeto ARIA](https://github.com/tadeu-queiroz/aria-analise-regulatoria-genai)
 
-**Stack principal:** Amazon Bedrock, AWS Lambda, Step Functions, Amazon S3, Textract, OpenSearch, Python, API Gateway
+Stack principais: Amazon Bedrock, AWS Lambda, Step Functions, Amazon S3, Textract, OpenSearch, Python, API Gateway
 
 
 <p align="left">
