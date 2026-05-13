@@ -12,6 +12,8 @@ Sou Certificado pela AWS Solutions Architect Associate e Cloud Practitioner
 Atualmente, trabalho como Consultor Cloud (freelance) na 9net IT Security, em projetos sob demanda de AWS Architecture, Serverless Architectures, Infrastructure as Code (IaC), CI/CD e Cloud Security, sempre com foco em confiabilidade, eficiência e excelência operacional.
 Sou ativo em comunidades de tecnologia, atuo como mentor voluntário na Escola da Nuvem e acredito fortemente na troca de conhecimento como forma de crescimento coletivo. Estou sempre buscando me atualizar, estudar novas arquiteturas, serviços e boas práticas.
 
+Sou ativo em comunidades de tecnologia, atuo como mentor voluntário na Escola da Nuvem e acredito fortemente na troca de conhecimento como forma de crescimento coletivo. Estou sempre buscando me atualizar, estudar novas arquiteturas, serviços e boas práticas.
+
 Sou apaixonado por Cloud Computing, arquitetura, automação e cultura DevOps. 
 
 Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação e transformação digital de negócios.
