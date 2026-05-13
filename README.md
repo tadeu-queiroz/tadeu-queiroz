@@ -45,13 +45,12 @@ Reduza a análise de documentos de semanas para segundos.
 
 **Stack principal:** Amazon Bedrock, AWS Lambda, Step Functions, Amazon S3, Textract, OpenSearch, Python, API Gateway
 
-## ❤️ Sou mentor voluntário na Escola da Nuvem 
 
 <p align="left">
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663506708387/mGsaHQkLzZsiZqbX.webp" alt="Selo Voluntário Escola da Nuvem" width="150"/>
 </p>
 
-**Voluntário - Escola da Nuvem**
+**## ❤️ Sou mentor voluntário na Escola da Nuvem **
 Apoio no desenvolvimento de alunos em tecnologia, contribuindo para inclusão social e formação de novos profissionais para o mercado de trabalho.
 
 ## 🌎 Onde me encontrar
