@@ -4,7 +4,7 @@
 
 ☁️ Analista de Infraestrutura Cloud | 2x AWS Certified | Serverless | GenAI & RAG | Migração para Nuvem
 
-Trabalho com a Cloud AWS ajudando a unir tecnologia e negócios, aplicando o AWS Well-Architected Framework para entregar soluções de forma segura, escaláveis e financeiramente eficientes (FinOps). 
+Trabalho com a Cloud AWS ajudando a unir tecnologia e negócios, aplicando o AWS Well-Architected Framework para entregar soluções de forma segura, escaláveis e financeiramente eficientes (FinOps) 
 que aceleram a transformação digital.
 
 Sou Certificado pela AWS Solutions Architect Associate e Cloud Practitioner.
