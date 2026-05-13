@@ -36,7 +36,7 @@ Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação
 
 🥈 Destaque - Hackathon Talento Tech 3.0
 
-2º Lugar Geral ➡️ ARIA - análise regulatória Gen.AI 
+ 2º Lugar Geral ➡️ ARIA - análise regulatória Gen.AI 
 
 Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026 · SENAI Suíço-Brasileiro
 
