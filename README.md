@@ -24,9 +24,7 @@ Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação
 
 
 
-
-
-  🏅 Certificações & Destaques
+🏅 Certificações & Destaques
 
 <p align="left">
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663506708387/WxNFpVwGliHwZMhW.png" alt="AWS Certified Solutions Architect - Associate" width="120"/>
