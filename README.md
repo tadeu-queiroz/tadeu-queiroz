@@ -2,12 +2,12 @@
 
 🇧🇷 São Paulo, Brasil
 
-☁️Analista de Infraestrutura Cloud | 2x AWS Certified | Serverless | GenAI & RAG | Migração para Nuvem
+☁️ Analista de Infraestrutura Cloud | 2x AWS Certified | Serverless | GenAI & RAG | Migração para Nuvem
 
 Trabalho com a Cloud AWS ajudando a unir tecnologia e negócios, aplicando o AWS Well-Architected Framework para entregar soluções de forma segura, escaláveis e financeiramente eficientes (FinOps). 
 Que aceleram a transformação digital.
 
-Sou Certificado pela AWS Solutions Architect Associate e Cloud Practitioner
+Sou Certificado pela AWS Solutions Architect Associate e Cloud Practitioner.
 
 Atualmente, trabalho como Consultor Cloud (freelance) na 9net IT Security, em projetos sob demanda de AWS Architecture, Serverless Architectures, Infrastructure as Code (IaC), CI/CD e Cloud Security, sempre com foco em confiabilidade, eficiência e excelência operacional.
 Sou ativo em comunidades de tecnologia, atuo como mentor voluntário na Escola da Nuvem e acredito fortemente na troca de conhecimento como forma de crescimento coletivo. Estou sempre buscando me atualizar, estudar novas arquiteturas, serviços e boas práticas.
@@ -23,7 +23,7 @@ Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação
 - Design de Arquiteturas Escaláveis, Seguras e de Alta Disponibilidade
 - Telecomunicações e Redes
 
-## 🏅 Certificações & Destaques
+🏅 Certificações & Destaques
 
 <p align="left">
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663506708387/WxNFpVwGliHwZMhW.png" alt="AWS Certified Solutions Architect - Associate" width="120"/>
@@ -33,9 +33,9 @@ Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação
 
 ### 🥈 Destaque - Hackathon Talento Tech 3.0
 
-**2º Lugar Geral ➡️ ARIA - análise regulatória Gen.AI **
+2º Lugar Geral ➡️ ARIA - análise regulatória Gen.AI 
 
-*Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026 · SENAI Suíço-Brasileiro*
+Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026 · SENAI Suíço-Brasileiro
 
 Desenvolvemos uma plataforma de automação regulatória para extrair conhecimento de dados complexos e garantir conformidade farmacêutica, com Inteligência Artificial Generativa na AWS. Solução Serverless com Amazon Bedrock, RAG, Step Functions e Textract. 
 A plataforma automatiza a ingestão e o processamento de documentos regulatórios, seja de forma manual ou por meio de coleta automatizada de fontes externas, gerando uma base de conhecimento consultável por meio de um assistente virtual conversacional. 
@@ -50,11 +50,11 @@ Reduza a análise de documentos de semanas para segundos.
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663506708387/mGsaHQkLzZsiZqbX.webp" alt="Selo Voluntário Escola da Nuvem" width="150"/>
 </p>
 
-**## ❤️ Sou mentor voluntário na Escola da Nuvem **
+❤️ Sou mentor voluntário na Escola da Nuvem 
 
 Apoio no desenvolvimento de alunos em tecnologia, contribuindo para inclusão social e formação de novos profissionais para o mercado de trabalho.
 
-## 🌎 Onde me encontrar
+🌎 Onde me encontrar
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white )](https://linkedin.com/in/tadeuqueiroz-cloud )
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white )](mailto:tadeuqueiroz.cloud@gmail.com)
