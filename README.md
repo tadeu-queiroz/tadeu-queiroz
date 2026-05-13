@@ -34,7 +34,7 @@ Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663506708387/aZerKpnKuUBVwQVb.png" alt="AWS re/Start Graduate" width="120"/>
 </p>
 
-### 🥈 Destaque - Hackathon Talento Tech 3.0
+🥈 Destaque - Hackathon Talento Tech 3.0
 
 2º Lugar Geral ➡️ ARIA - análise regulatória Gen.AI 
 
