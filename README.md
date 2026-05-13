@@ -24,6 +24,7 @@ Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação
 
 
 
+
 🏅 Certificações & Destaques
 
 <p align="left">
