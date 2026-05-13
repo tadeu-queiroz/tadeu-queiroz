@@ -2,12 +2,19 @@
 
 🇧🇷 São Paulo, Brasil
 
-☁️ Arquiteto de Cloud | AWS Certified Solutions Architect Associate | Serverless | GenAI & RAG | Migração para Nuvem
+☁️Analista de Infraestrutura Cloud | 2x AWS Certified | Serverless | GenAI & RAG | Migração para Nuvem
 
-Sou profissional de tecnologia com atuação em Cloud AWS, com experiência em migração e modernização de infraestruturas, design de arquiteturas escaláveis, seguras e de alta disponibilidade. Certificado como AWS Solutions Architect Associate e AWS Cloud Practitioner, com sólida base em telecomunicações e redes.
+Trabalho com a Cloud AWS ajudando a unir tecnologia e negócios, aplicando o AWS Well-Architected Framework para entregar soluções de forma segura, escaláveis e financeiramente eficientes (FinOps). 
+Que aceleram a transformação digital.
+
+Sou Certificado pela AWS Solutions Architect Associate e Cloud Practitioner
 
 Atualmente, trabalho como Consultor Cloud (freelance) na 9net IT Security, em projetos sob demanda de AWS Architecture, Serverless Architectures, Infrastructure as Code (IaC), CI/CD e Cloud Security, sempre com foco em confiabilidade, eficiência e excelência operacional.
-Aberto a oportunidades como Cloud Architect, Solutions Architect ou Cloud Engineer, em empresas que valorizem inovação, automação e boas práticas em Cloud AWS. — presencial, híbrido ou remoto.
+Sou ativo em comunidades de tecnologia, atuo como mentor voluntário na Escola da Nuvem e acredito fortemente na troca de conhecimento como forma de crescimento coletivo. Estou sempre buscando me atualizar, estudar novas arquiteturas, serviços e boas práticas.
+
+Sou apaixonado por Cloud Computing, arquitetura, automação e cultura DevOps. 
+
+Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação e transformação digital de negócios.
 
 - Arquiteturas Cloud (AWS)
 - Migração e Modernização de Infraestruturas
