@@ -21,6 +21,7 @@ Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação
 - Arquiteturas Cloud (AWS)
 - Migração e Modernização de Infraestruturas
 - Design de Arquiteturas Escaláveis, Seguras e de Alta Disponibilidade
+- 
 
 🏅 Certificações & Destaques
 
