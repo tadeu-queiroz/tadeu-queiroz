@@ -23,6 +23,7 @@ Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação
 - Design de Arquiteturas Escaláveis, Seguras e de Alta Disponibilidade
 
 
+
 🏅 Certificações & Destaques
 
 <p align="left">
