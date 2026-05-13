@@ -34,11 +34,11 @@ Acredito que Cloud vai muito além de infraestrutura: é estratégia, inovação
   <img src="https://files.manuscdn.com/user_upload_by_module/session_file/310519663506708387/aZerKpnKuUBVwQVb.png" alt="AWS re/Start Graduate" width="120"/>
 </p>
 
- 🥈 Destaque - Hackathon Talento Tech 3.0
+🥈 Destaque - Hackathon Talento Tech 3.0
 
- ➡️ 2º Lugar Geral - ARIA - análise regulatória Gen.AI 
+➡️ 2º Lugar Geral - ARIA - análise regulatória Gen.AI 
 
-Hackathon Talento Tech 3.0 · Escola da Nuvem · Hacking for Good 2026 · SENAI Suíço-Brasileiro
+Hackathon Talento Tech 3.0 · Hacking for Good 2026 · Escola da Nuvem 
 
 Desenvolvemos uma plataforma de automação regulatória para extrair conhecimento de dados complexos e garantir conformidade farmacêutica, com Inteligência Artificial Generativa na AWS. Solução Serverless com Amazon Bedrock, RAG, Step Functions e Textract. 
 A plataforma automatiza a ingestão e o processamento de documentos regulatórios, seja de forma manual ou por meio de coleta automatizada de fontes externas, gerando uma base de conhecimento consultável por meio de um assistente virtual conversacional. 
